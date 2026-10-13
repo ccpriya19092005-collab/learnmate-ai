@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Local database and uploaded materials
+data/
+uploads/
+
+# Other local files
+.DS_Store
