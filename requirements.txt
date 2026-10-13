@@ -1,2 +1,4 @@
-streanlit
+streamlit
 pandas
+requests
+plotly
